@@ -16,6 +16,12 @@ var book;
 console.log(book);
 console.log(typeof book);
 
+// undefined
+// undefined
+
 var book = null;
 console.log(book);
 console.log(typeof book);
+
+// null
+// object (★)
