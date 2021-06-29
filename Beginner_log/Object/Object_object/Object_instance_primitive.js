@@ -77,3 +77,4 @@ console.log(obj instanceof Object);
 // ===== 프리미티브 값 반환 valueOf() =====
 var obj = { soccer: "축구" };
 console.log(obj.valueOf());
+// { soccer: '축구' }
