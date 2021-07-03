@@ -46,3 +46,7 @@ console.log(value.indexOf(1, 5));
  */
 
 console.log(value.indexOf(789));
+// -1
+/**
+ * 같은 문자열 존재하지 않을 경우, -1 반환
+ */

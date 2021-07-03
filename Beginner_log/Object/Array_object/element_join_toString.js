@@ -36,3 +36,5 @@ console.log(typeof result);
 /**
  * Array.toString() => Array 엘리먼트들을 ,(콤마)를 기준으로 연결해서 반환
  */
+
+
