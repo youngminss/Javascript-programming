@@ -28,12 +28,13 @@ function matrixMultiple(m1, m2) {
 console.log(
   matrixMultiple(
     [
-      [1, 2],
-      [2, 4],
+      [1, 2, 0],
+      [2, 4, 0],
     ],
     [
       [1, 0],
       [0, 3],
+      [0, 1],
     ],
   ),
 );
